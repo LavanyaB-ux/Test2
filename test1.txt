@@ -1,0 +1,10 @@
+ Volume in drive C is OSDisk
+ Volume Serial Number is B4B8-5817
+
+ Directory of C:\Users\lb28\OneDrive - DXC Production\Desktop\Java Project 1\JavaProject
+
+22-03-2020  23:08    <DIR>          .
+22-03-2020  23:08    <DIR>          ..
+22-03-2020  23:08                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  182,541,492,224 bytes free
